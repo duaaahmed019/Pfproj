@@ -62,6 +62,7 @@ void printCalendar(int year, int month) {
 }
 
 int main() {
+    // new comment
     int year, month;
 
     printf("Enter the year: ");
